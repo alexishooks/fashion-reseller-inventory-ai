@@ -1,18 +1,19 @@
-**Trend to evaluate:**
+## Trend to evaluate
 
 Sheer or near-transparent tops for layering. White/off-white tones with a romantic vibe.
 
-**Reseller constraints:**
+## Reseller constraints
 
-Budget: $100
+- **Budget:** $100
 
-- Time available this week: low
+- **Time available this week:** low
 
-- Sourcing method: in-person thrifting
+- **Sourcing method:** in-person thrifting
 
-- Assume a solo reseller with limited storage and no returns accepted.
+- **Seller profile:** Assume a solo reseller with limited storage and no returns accepted.
 
- Historical performance by trend (from Python analysis):
+
+**Summary table:** Average payout, days to sell, and item count by trend tag (from Python analysis):
 
 ![Historical trend performance](./trend_perf_table.png)
 
@@ -30,5 +31,7 @@ Budget: $100
 - Suggest what metrics to watch over the next week
 
 - Define what would make this test a “stop” vs “continue” after 7–10 days
+  
+- Do not predict demand or guarantee sales outcomes.
 
 - Keep recommendations conservative and practical for a small reseller, based on what is realistically found at typical thrift stores.
