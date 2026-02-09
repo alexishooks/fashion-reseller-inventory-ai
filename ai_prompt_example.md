@@ -14,6 +14,9 @@ Assume a solo reseller with limited storage and no returns accepted.
 
 Historical performance by trend (from Python analysis):
 
+![Historical trend performance](./trend_perf_table.png)
+
+
 
 
 **Your task:**
