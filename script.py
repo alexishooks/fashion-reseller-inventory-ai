@@ -1,5 +1,5 @@
 import pandas as pd
-df = pd.read_csv("cleaned_resale_data.xlsx - cleaned_resale_data.csv", header=1)
+df = pd.read_csv("cleaned_resale_data.csv", header=1)
 
 # Convert currency-formatted columns from strings to numeric values
 currency_cols = [
