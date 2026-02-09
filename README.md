@@ -8,5 +8,5 @@ Prototype for an AI-powered workflow that helps small fashion resellers decide h
 ## Contents
 - `script.py` – main analysis and logic
 - `cleaned_resale_data.csv` – sample input data structure
-- `ai_prompt_example.txt` – example of the AI prompt used
+- `ai_prompt_example.md` – example of the AI prompt used
 
