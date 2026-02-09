@@ -6,13 +6,13 @@ Sheer or near-transparent tops for layering. White/off-white tones with a romant
 
 Budget: $100
 
-Time available this week: low
+- Time available this week: low
 
-Sourcing method: in-person thrifting
+- Sourcing method: in-person thrifting
 
-Assume a solo reseller with limited storage and no returns accepted.
+- Assume a solo reseller with limited storage and no returns accepted.
 
-Historical performance by trend (from Python analysis):
+ Historical performance by trend (from Python analysis):
 
 ![Historical trend performance](./trend_perf_table.png)
 
@@ -21,14 +21,14 @@ Historical performance by trend (from Python analysis):
 
 **Your task:**
 
-Recommend a small test-buy plan (what to look for + quantity range)
+- Recommend a small test-buy plan (what to look for + quantity range)
 
-Flag higher-risk categories or items to avoid
+- Flag higher-risk categories or items to avoid
 
-Assign an overall risk level (low / medium / high) with reasoning
+- Assign an overall risk level (low / medium / high) with reasoning
 
-Suggest what metrics to watch over the next week
+- Suggest what metrics to watch over the next week
 
-Define what would make this test a “stop” vs “continue” after 7–10 days
+- Define what would make this test a “stop” vs “continue” after 7–10 days
 
-Keep recommendations conservative and practical for a small reseller, based on what is realistically found at typical thrift stores.
+- Keep recommendations conservative and practical for a small reseller, based on what is realistically found at typical thrift stores.
