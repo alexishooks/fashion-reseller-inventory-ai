@@ -17,7 +17,8 @@ Sheer or near-transparent tops for layering. White/off-white tones with a romant
 
 ![Historical trend performance](./trend_perf_table.png)
 
-
+Historical performance includes both aggregate metrics and a direction indicator (rising / stable / declining).
+Recommendations should weigh direction more heavily than historical averages when assessing risk and test size.
 
 
 **Your task:**
